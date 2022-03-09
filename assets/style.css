@@ -1,0 +1,48 @@
+.header{
+    background-color: rgb(2, 2, 29);
+    border-bottom: solid 0.1px white;
+}
+.image img{
+    width : 250px;
+    height: 50px;
+}
+
+/* Section1 */
+.section1{
+    background-color: rgb(2, 2, 29);
+}
+
+/* Section2 */
+.section2{
+    background-color: #f9f9f9;
+}
+
+/* Section5 */
+.section5{
+    background-color: #322f36;
+}
+.section5-content div{
+    width: 10%;
+    height: 20vh;
+    border-radius: 100%;
+    background-color: #fff;
+}
+/* Section6 */
+.section6{
+    background-color: #f5f0f0;
+}
+
+.button{
+        color: white;
+        background-color: turquoise;
+        border-radius: 20px;
+        padding: 10px 30px;
+        display: inline-block;
+        margin: 30px 0;
+
+}
+
+/* Section8 */
+.section8{
+    background-color: #f5f0f0;
+}
